@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,+BAAiC,CACjC,wBAA2B,CAC3B,SAAU,CACV,aAAc,CACd,YAAa","file":"main.4849eefe.chunk.css","sourcesContent":[".App {\n  font-family: \"Roboto\", sans-serif;\n  border: 2px solid gainsboro;\n  width: 50%;\n  margin: 0 auto;\n  padding: 15px;\n}\n"]}
